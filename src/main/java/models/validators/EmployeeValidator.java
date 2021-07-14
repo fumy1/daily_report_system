@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import constants.MessageConst;
+import models.views.EmployeeView;
 import services.EmployeeService;
-import views.EmployeeView;
 
 /**
  * 従業員インスタンスに設定されている値のバリデーションを行うクラス
